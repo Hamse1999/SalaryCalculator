@@ -1,0 +1,14 @@
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.csproj.AssemblyReference.cache
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.AssemblyInfoInputs.cache
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.AssemblyInfo.cs
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.exe
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.deps.json
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.runtimeconfig.json
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.runtimeconfig.dev.json
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.dll
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.pdb
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.dll
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.pdb
+C:\Users\hamse\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.genruntimeconfig.cache
